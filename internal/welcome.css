@@ -1,0 +1,21 @@
+*{
+  margin:0;
+  padding:0;
+}
+.bg
+{
+
+}
+body
+{
+  background: linear-gradient(to right,red,blue);
+  height:500px;
+
+}h1
+{
+  color:white;
+  position:absolute;
+  left:50%;
+  top:40%;
+  transform:translate(-50%,50%);
+}
